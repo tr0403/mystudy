@@ -1,0 +1,48 @@
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <!--
+                    <string>https://81.70.85.138/page/downloadios</string>
+                    -->
+                    <string>https://huahu-1304263780.cos.ap-shanghai.myqcloud.com/appdown/PhoneLive.ipa</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://81.70.85.138/static/3.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://81.70.85.138/static/7.png</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>title</key>
+                <string>花狐直播</string>
+                <key>bundle-version</key>
+                <string>5.8</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>bundle-identifier</key>
+                <string>com.live.huahua</string>
+            </dict>
+        </dict>
+    </array>
+</array>
+</plist>
